@@ -6,7 +6,7 @@
         <version>1.0.0</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <file_name>SECPlanBN.zip</file_name>
-        <download_url>https://raw.githubusercontent.com/felipehaia/secplanbn/main/secplanbn.zip</download_url>
+        <download_url>https://raw.githubusercontent.com/felipehaia/secplanbn/main/SECPlanBN.zip</download_url>
         <author_name>Núcleo de Urbanismo</author_name>
     </pyqgis_plugin>
 </plugins>
