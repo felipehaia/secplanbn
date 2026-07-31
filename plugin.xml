@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="SECPlanBN" version="1.0.0">
+        <description>Plugin de uso exclusivo da Secretaria de Planejamento Urbano de Braço do Norte.</description>
+        <about>Ferramenta para geração de pareceres, CRFs e relatórios a partir das camadas de REURB.</about>
+        <version>1.0.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <file_name>SECPlanBN.zip</file_name>
+        <download_url>https://raw.githubusercontent.com/felipehaia/secplanbn/main/secplanbn.zip</download_url>
+        <author_name>Núcleo de Urbanismo</author_name>
+    </pyqgis_plugin>
+</plugins>
